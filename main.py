@@ -1,1 +1,2 @@
 print('suzuki')
+print('yamaha')
